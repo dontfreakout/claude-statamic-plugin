@@ -10,7 +10,10 @@
   "plugins": [
     {
       "name": "statamic-dev",
-      "source": ".",
+      "source": {
+        "type": "path",
+        "path": "."
+      },
       "description": "Comprehensive Statamic v6 development assistant — Antlers templating, content modeling, blueprints, addon development, PHP APIs, and project scaffolding",
       "version": "0.1.0",
       "author": {
