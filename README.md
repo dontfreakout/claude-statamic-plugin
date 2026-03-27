@@ -22,6 +22,16 @@ A comprehensive development assistant for building websites with **Statamic v6**
 
 ## Installation
 
+### From Marketplace (recommended)
+
+Add the marketplace and install:
+```
+/plugin marketplace add dontfreakout/statamic-dev
+/plugin install statamic-dev@statamic-dev
+```
+
+### Direct Plugin Directory
+
 ```bash
 claude --plugin-dir /path/to/statamic-dev
 ```

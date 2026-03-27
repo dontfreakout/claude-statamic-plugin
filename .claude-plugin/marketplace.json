@@ -1,0 +1,22 @@
+{
+  "name": "statamic-dev",
+  "owner": {
+    "name": "Martin Vlcek",
+    "email": "info@dontfreakout.eu"
+  },
+  "metadata": {
+    "description": "Statamic v6 development plugins for Claude Code — templating, content modeling, addon development, and project scaffolding"
+  },
+  "plugins": [
+    {
+      "name": "statamic-dev",
+      "source": ".",
+      "description": "Comprehensive Statamic v6 development assistant — Antlers templating, content modeling, blueprints, addon development, PHP APIs, and project scaffolding",
+      "version": "0.1.0",
+      "author": {
+        "name": "Martin Vlcek",
+        "email": "info@dontfreakout.eu"
+      }
+    }
+  ]
+}
