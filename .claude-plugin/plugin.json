@@ -1,0 +1,11 @@
+{
+  "name": "statamic-dev",
+  "version": "0.1.0",
+  "description": "Comprehensive Statamic v6 development assistant — Antlers templating, content modeling, blueprints, addon development, PHP APIs, and project scaffolding",
+  "author": {
+    "name": "Martin Vlcek",
+    "email": "info@dontfreakout.eu"
+  },
+  "license": "MIT",
+  "keywords": ["statamic", "cms", "laravel", "antlers", "flat-file", "content-management"]
+}
