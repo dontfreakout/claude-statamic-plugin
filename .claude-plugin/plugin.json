@@ -9,7 +9,5 @@
   "homepage": "https://github.com/dontfreakout/statamic-dev",
   "repository": "https://github.com/dontfreakout/statamic-dev",
   "license": "MIT",
-  "keywords": ["statamic", "cms", "laravel", "antlers", "flat-file", "content-management"],
-  "agents": "./agents/",
-  "skills": "./skills/"
+  "keywords": ["statamic", "cms", "laravel", "antlers", "flat-file", "content-management"]
 }
